@@ -1,8 +1,8 @@
 {
   "provider": "GitHub Pages",
-  "sourceCommit": "971e8d1c0633f8fc2e4c4926e73f9cc167220913",
+  "sourceCommit": "e92f6dd19395347838dcf0a5159596d2b0c7c90f",
   "sourceVersion": "v175",
-  "layout": "v44-full-desktop-pages",
+  "layout": "v45-readability",
   "desktopLogicalPages": 8,
   "products": 80,
   "locales": [
@@ -50,7 +50,7 @@
   "ageDeclaration": "Browser session with two-hour expiry, explicit confirmation/refusal and clearing on Close menu. Static hosting does not provide a server-side content boundary.",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "404.html": "4c8e3fcd9163f0dff4f15be1e3feaf4e431904efee46ba7e2a7752b001932047",
+    "404.html": "be559230b96e3d3698a1c5b13ee90135c60af9823e5f23a1005be0d16410f3e6",
     "api/pandora-menu/assets/apollo.webp": "8824be7fa3b797b272003fddfde2d7902b99bbafc86da8ba00a79a6098b93a94",
     "api/pandora-menu/assets/bubble-boy.webp": "bb8194c34eeb31d50410483080b441fead6083cf2037e38af0d7d25ca938879b",
     "api/pandora-menu/assets/cracker.webp": "36469510d7d36f1069e6a46bada5bbf33d4715813e5272c6db8fe9739106881e",
@@ -69,9 +69,9 @@
     "api/pandora-menu/assets/shaker.webp": "700feef0ae25fd206e4a245f7cb984b4d9ce3292656fb391921ad05a10568822",
     "api/pandora-menu/assets/sky.webp": "82f0dac4632421baa0dac258d912df01d9b0d04e37354df20400787474acf50f",
     "api/pandora-menu/assets/wonderland.webp": "193e81ee1c8a1475e8b8f33aea6bb70fe0ec0f294411c8e90a26f0d6f2a33b97",
-    "de/pandora/menu/index.html": "e96efb3d6ca923ae7d59830b8a55130bd32a76ebb2dc6014a49a7849a9bcd5db",
-    "en/pandora/menu/index.html": "a68ef839a110e0d2b630af27d86529ed695cbf14afdf7866d0f1d5ebdab96909",
-    "es/pandora/menu/index.html": "fd0223d13f770035a1d6252d7bc7e63c202cb2c2471efa7b0441cf5174873728",
+    "de/pandora/menu/index.html": "f06f694d4968aa246629ae07c3681b3e9b3db6d07a0bf02b087bbc7cfe8b9aea",
+    "en/pandora/menu/index.html": "a86e18d7d8974e3361a127e46e43e21d2ded678faf00762ede9c91f10e444d76",
+    "es/pandora/menu/index.html": "a4f81247fd752f51313c92346ff999cddf596b28a2455b33851177b0fa5c6b6b",
     "fonts/site/cormorantgaramond-5d618c462b7a5b74f442.woff2": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621",
     "fonts/site/cormorantgaramond-826f73ca737feec0eb10.woff2": "826f73ca737feec0eb1004808629973d6b611fddc2bd2a689b5fe331f6be6427",
     "fonts/site/cormorantgaramond-9dc38267bdee93a65320.woff2": "9dc38267bdee93a653200ef3c1e8060e3f1399073432c415c683b419d3b50464",
@@ -98,25 +98,27 @@
     "fonts/site/splinesansmono-2b193a4f0fef3fc4c6a3.woff2": "2b193a4f0fef3fc4c6a3fa756bb5dab6c10b489acd5e0718736847755077e9ec",
     "fonts/site/splinesansmono-bde42c142265c31a4507.woff2": "bde42c142265c31a450781d82cc72e1859bd42cba8e438fb96f77f1d69ebc8d6",
     "fonts/site/splinesansmono-OFL.txt": "4abb88162e4c0c5f9fc6c2f15d7085f7b7e27fd89f541a13488e1bcb829bde3f",
-    "fr/pandora/menu/index.html": "a448bfc67dbe9202b5de81b2a0cfa6077539104640ceac87f5502893f04ab006",
-    "index.html": "4c8e3fcd9163f0dff4f15be1e3feaf4e431904efee46ba7e2a7752b001932047",
-    "it/pandora/menu/index.html": "6a64d0c857b313f4a4823fba9bf7048d9b1212d1508d8bd95cbfac7096b8bb6c",
-    "no/pandora/menu/index.html": "9deceacf64e840becf90919ff22291d2be80413dc4e9a2480330722ded335219",
-    "pl/pandora/menu/index.html": "d853903549adefabbcc985960bd667654a73213afe28393adf3d1ffcdae2dc93",
+    "fr/pandora/menu/index.html": "b14487b2648184aab8ebc96aa578c541b4cdee65396f2ef42faad623a92aad1c",
+    "index.html": "be559230b96e3d3698a1c5b13ee90135c60af9823e5f23a1005be0d16410f3e6",
+    "it/pandora/menu/index.html": "5a0f187a47406b57d209f94333a72961cf632aec742da8cfa82c4d25e30e798f",
+    "no/pandora/menu/index.html": "88c3a290c25996dce96c79b9e8ce7e9ddebec83ae402d3b60fa3f295283f3619",
+    "pl/pandora/menu/index.html": "b5e89fa0369004683901468ebd9652a4237582aa395900787e9f85bf80cbbfb6",
     "robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+    "static/client-4FWAVDNF.css": "36ebd7fd4cd152068bb5808ca08572b5e34731be068e18bf94b699df5c0420cd",
     "static/client-AWPIK3HT.js": "1baab9a9df082f49012b6856782a4d8658164f22f81f6d6810c1a40aec77fbc1",
     "static/client-C6ZLBLX7.js": "c61f41cb28156c20d404c35bdd02ba17c70fd8b323a79071861190b534921bf3",
     "static/client-MG3IGFJ2.css": "0e3bdf383ca8a74228fc3a1597cb7075e699eeb9646c7f44ddcc2319d5da420d",
     "static/client-XKQH4RL6.css": "6ebdce2eee449d14215f7dc8857ed00d46d8c87fc9f12a563dc615eeaf3d37c2",
+    "static/client-XORRPQ4F.js": "6df584e4f23555e4d9b02b7bd6f1c18288bf2bae92a061385b28e2e32dcc4793",
     "static/client-Y5POOGXA.js": "776b87e4778cabe9838d0b28e31ff75b9418ff697ff46e04ffd01642fb41ee9c",
     "static/client-ZLLFFR3A.css": "16d6051d3e840aa828c7e6878808b35cd1692655d4f6aa0880bdeb9be89a8e18",
-    "uk/pandora/menu/index.html": "d1796396b7f11bdf2443d0aa89348e625f53f0b2d4dbf9ada068df0be1ea8ffc"
+    "uk/pandora/menu/index.html": "bebca86f2ab6bcc2eb13ec1fd17706e56d67f90a8d5327df44bbaf1d593b4bd0"
   },
   "adapterPatches": [
     {
       "file": "components\\pandora-menu\\PandoraMenuBook.tsx",
-      "source": "0862a22af352e1745239033a6bf8ec05edb3434a78cd2b5cfd15401d086515f2",
-      "adapted": "8430438e98ca9139b64f8eec022b9f2f8a6d6f48b24df3e28448ddba12496842",
+      "source": "d31102735f024222fdf2b9a0485747e83d274adfee4da9aeb4f90107a267fff9",
+      "adapted": "d16d69ddc0a8d81436014fb4a897caf1bed26a7a6a2e1ed515b42e588cb47caf",
       "purpose": "Static host browser declaration and project base path only. Menu fields, styles, pagination, artwork and animation code retained."
     },
     {
@@ -133,8 +135,8 @@
     },
     {
       "file": "components\\pandora-menu\\PandoraMenuBook.tsx",
-      "source": "0862a22af352e1745239033a6bf8ec05edb3434a78cd2b5cfd15401d086515f2",
-      "adapted": "8430438e98ca9139b64f8eec022b9f2f8a6d6f48b24df3e28448ddba12496842",
+      "source": "d31102735f024222fdf2b9a0485747e83d274adfee4da9aeb4f90107a267fff9",
+      "adapted": "d16d69ddc0a8d81436014fb4a897caf1bed26a7a6a2e1ed515b42e588cb47caf",
       "purpose": "Static host browser declaration and project base path only. Menu fields, styles, pagination, artwork and animation code retained."
     },
     {
@@ -150,5 +152,5 @@
       "purpose": "Static host browser declaration and project base path only. Menu fields, styles, pagination, artwork and animation code retained."
     }
   ],
-  "fingerprint": "pandora-v44-gh-53c10d61cc0aace021a6c37f"
+  "fingerprint": "pandora-v45-gh-e16e99a9f2d24b32fec88620"
 }
