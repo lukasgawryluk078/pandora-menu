@@ -1,8 +1,8 @@
 {
   "provider": "GitHub Pages",
-  "sourceCommit": "b1dbc747f4b7a73634f9c2ae3e502824bb920c39",
+  "sourceCommit": "9c1599eeb3606141e775410834fce82727a5d610",
   "sourceVersion": "v175",
-  "layout": "v49-price-icons",
+  "layout": "v50-signature-icons",
   "desktopLogicalPages": 8,
   "products": 80,
   "locales": [
@@ -52,7 +52,7 @@
   "ageDeclaration": "Browser session with two-hour expiry, explicit confirmation/refusal and clearing on Close menu. Static hosting does not provide a server-side content boundary.",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "404.html": "775972188f389a94ce7aac3ed28beb4a881b06058f4a86c5a4d65413bf007aa6",
+    "404.html": "79f68e6b435d472b725b0dabef469de4a5915a8ba87d13271a5908bc6c38f313",
     "api/pandora-menu/assets/apollo.webp": "8824be7fa3b797b272003fddfde2d7902b99bbafc86da8ba00a79a6098b93a94",
     "api/pandora-menu/assets/bubble-boy.webp": "bb8194c34eeb31d50410483080b441fead6083cf2037e38af0d7d25ca938879b",
     "api/pandora-menu/assets/cracker.webp": "36469510d7d36f1069e6a46bada5bbf33d4715813e5272c6db8fe9739106881e",
@@ -71,9 +71,9 @@
     "api/pandora-menu/assets/shaker.webp": "700feef0ae25fd206e4a245f7cb984b4d9ce3292656fb391921ad05a10568822",
     "api/pandora-menu/assets/sky.webp": "82f0dac4632421baa0dac258d912df01d9b0d04e37354df20400787474acf50f",
     "api/pandora-menu/assets/wonderland.webp": "193e81ee1c8a1475e8b8f33aea6bb70fe0ec0f294411c8e90a26f0d6f2a33b97",
-    "de/pandora/menu/index.html": "b1103b4fa8057134102635729247810b5c1eb62157cb745e1e452034bd89f0b3",
-    "en/pandora/menu/index.html": "8b412d93f01d14e9d5b13032645a1d360db35b9caaf9fe57ced1a228673236b2",
-    "es/pandora/menu/index.html": "0cced600d539da61076e67fd0b941f1d73edeeede19d7dc6c71f1544c8480dcc",
+    "de/pandora/menu/index.html": "662209d6b7dc4aab23d0afd95f710c5db16fdd533bcfbc8a0a6cc3dd4d8193e4",
+    "en/pandora/menu/index.html": "88eca6316095677c0d1a298720c260ae6a02edb2f62f61831dd957c5b47a9d1a",
+    "es/pandora/menu/index.html": "1745b5f1e94bdff98f52fcbf1ecc9a4398601c77f37c0a5a25a709ee9fb577f8",
     "fonts/site/cormorantgaramond-5d618c462b7a5b74f442.woff2": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621",
     "fonts/site/cormorantgaramond-826f73ca737feec0eb10.woff2": "826f73ca737feec0eb1004808629973d6b611fddc2bd2a689b5fe331f6be6427",
     "fonts/site/cormorantgaramond-9dc38267bdee93a65320.woff2": "9dc38267bdee93a653200ef3c1e8060e3f1399073432c415c683b419d3b50464",
@@ -100,11 +100,11 @@
     "fonts/site/splinesansmono-2b193a4f0fef3fc4c6a3.woff2": "2b193a4f0fef3fc4c6a3fa756bb5dab6c10b489acd5e0718736847755077e9ec",
     "fonts/site/splinesansmono-bde42c142265c31a4507.woff2": "bde42c142265c31a450781d82cc72e1859bd42cba8e438fb96f77f1d69ebc8d6",
     "fonts/site/splinesansmono-OFL.txt": "4abb88162e4c0c5f9fc6c2f15d7085f7b7e27fd89f541a13488e1bcb829bde3f",
-    "fr/pandora/menu/index.html": "2c5ea69600c4a2be9e6b1f2fcb4f563a2511c0b5f9f88c5a40279ec1f0179e12",
-    "index.html": "775972188f389a94ce7aac3ed28beb4a881b06058f4a86c5a4d65413bf007aa6",
-    "it/pandora/menu/index.html": "b1e1e7854171524bc5a94a32faf1093bfcead894a8405f9d16d3ecd3c4e47237",
-    "no/pandora/menu/index.html": "1d6ac3dba1f6bbf1f6e36663fffa700c5f3e9e9c00002396d7899713597d56aa",
-    "pl/pandora/menu/index.html": "2707bffd1a1655ba7e5979305be958afa83e12a3893f423471ce03e672124acc",
+    "fr/pandora/menu/index.html": "70df81aa6623a835895713c31d57755f0b56eeca64dbc697b91338dc6f54edcb",
+    "index.html": "79f68e6b435d472b725b0dabef469de4a5915a8ba87d13271a5908bc6c38f313",
+    "it/pandora/menu/index.html": "5d44c0f560884d7b2ec19dae382e846e68e402f78a6a86ebe5996d9e85fb7bef",
+    "no/pandora/menu/index.html": "fd46450fd1d05f611cd4579660777da0054ab10274f9f715cdb715b35d515c1c",
+    "pl/pandora/menu/index.html": "dd17ef46113b901dc48239035ca67a7f811a723309e79ab753b895c47b260ba7",
     "robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
     "static/client-2ZU27JZM.css": "41fffc184525319b2bfb9cd7685d7d24dc03d9ed7777e93cbaa10ce96cd4ef75",
     "static/client-4FWAVDNF.css": "36ebd7fd4cd152068bb5808ca08572b5e34731be068e18bf94b699df5c0420cd",
@@ -116,13 +116,14 @@
     "static/client-FGWTIMFF.css": "5b5b29d75be7d16690548290f91498710efb54399c522128deefa8ef3d1d515f",
     "static/client-HZVDO7R6.js": "0960f5451efb4f2403d004cb10c7de6f83d444294da3c86fd0b2bc0212a50bee",
     "static/client-MG3IGFJ2.css": "0e3bdf383ca8a74228fc3a1597cb7075e699eeb9646c7f44ddcc2319d5da420d",
+    "static/client-REMNTL4L.js": "01843afd1bfa21f066c145e6ffadd3682f5b8d03cff0639a2205872e624d0fa3",
     "static/client-TOKO764E.js": "a3574d57fad67c8b1c550933a460a5d4f343d54449ed5fdea3f2c219df28c87e",
     "static/client-XKQH4RL6.css": "6ebdce2eee449d14215f7dc8857ed00d46d8c87fc9f12a563dc615eeaf3d37c2",
     "static/client-XORRPQ4F.js": "6df584e4f23555e4d9b02b7bd6f1c18288bf2bae92a061385b28e2e32dcc4793",
     "static/client-Y5POOGXA.js": "776b87e4778cabe9838d0b28e31ff75b9418ff697ff46e04ffd01642fb41ee9c",
     "static/client-YY676PGA.css": "dcc6bf2914dadcf4c8212f88ce16bfb707406bb2d10632e2c1efb130daf15371",
     "static/client-ZLLFFR3A.css": "16d6051d3e840aa828c7e6878808b35cd1692655d4f6aa0880bdeb9be89a8e18",
-    "uk/pandora/menu/index.html": "8766f5d6b993b890a9d2ba6d31223902db4437da6d7db0ff03292f0369d11eff"
+    "uk/pandora/menu/index.html": "2fb7096c75b9a7b266faba94ee18ed9bdfd8d49cdbfc604193fe281c2dd4b15d"
   },
   "adapterPatches": [
     {
@@ -162,5 +163,5 @@
       "purpose": "Static host browser declaration and project base path only. Uses the shared editorially corrected menu reader, catalogues, styles and click-activated animation code."
     }
   ],
-  "fingerprint": "pandora-v49-gh-d20220936031f0d820be6f6e"
+  "fingerprint": "pandora-v50-gh-60ac91a1933a93e9b325a057"
 }
